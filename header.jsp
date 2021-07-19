@@ -31,10 +31,10 @@
 							<a href="generalinfo.jsp">New Registration</a>
 						</li>
 						<li>
-							<a href="modify.jsp">Modify Detail</a>
+							<a href="modify.jsp">Modify </a>
 						</li>
 						<li>
-							<a href="ahome.jsp">Administrator</a>
+							<a href="ahome.jsp">Admin</a>
 						</li>
 						<li>
 							<a href="contactus.jsp">Contact us</a>
